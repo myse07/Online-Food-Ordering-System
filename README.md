@@ -31,4 +31,3 @@ Detailed System Flow
 -Admin removes unavailable or out-of-stock food items. 
 
 -System deletes the selected item from the menu and database.
->>>>>>> 5c856398b5812aa472060c9e56633ddb09f1865b
