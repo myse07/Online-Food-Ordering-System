@@ -1,5 +1,6 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "Ordering-System",
     "slug": "Ordering-System",
     "version": "1.0.0",
@@ -16,8 +17,36 @@
       }
     },
 
+=======
+    "name": "online_food_ordering_system",
+    "slug": "online_food_ordering_system",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+>>>>>>> 70e51723232f3c0a184b9c13fd7fd69504012052
     "web": {
       "favicon": "./assets/favicon.png"
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 70e51723232f3c0a184b9c13fd7fd69504012052
